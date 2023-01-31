@@ -1,0 +1,17 @@
+
+{
+    "name": "Sphera rock #222lplloiik",
+	"description": "sphera",
+    "symobol": "KING sphera",
+	"image": "https://oneto11.mypinata.cloud/ipfs/QmVhPzvN9yNojWgarbgDFWiTHV6frsC9ze7Jy2qpgcTjhq/36.png",
+    "properties": {
+        "gender":"M",
+        "face":"round",
+        "hair":"glassy",
+        "spacesuit":"metallic",
+        "accessories":"diamond",
+        "background":"space"
+
+        
+    }
+}
