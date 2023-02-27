@@ -1,0 +1,14 @@
+{
+  "name": "I AM FIRE MAN  ",
+  "description": "I am fire man with jacket",
+  "symobol": "FireSuit",
+  "image": "https://oneto11.mypinata.cloud/ipfs/QmRveZD1pW8BnubSSxkGiPQajSRnDkgJx2za4umaGbbHA4/11.jfif",
+  "properties": {
+    "gender": "M",
+    "face": "round",
+    "hair": "gery",
+    "spacesuit": "fire jacket",
+    "accessories": "fire",
+    "background": "Olive"
+  }
+}

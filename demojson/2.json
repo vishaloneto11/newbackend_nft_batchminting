@@ -1,0 +1,17 @@
+
+{
+    "name": "SPACE BOY",
+	"description": "He is in the space with duck",
+    "symobol": "Sphera space",
+	"image": "https://oneto11.mypinata.cloud/ipfs/QmdrVXtjd4hiVcrULbANjF5Ru15TSNUN3BwUXnHEuZGmuc/2.png",
+    "properties": {
+        "gender":"M",
+        "face":"round",
+        "hair":"glassy",
+        "spacesuit":"metallic",
+        "accessories":"diamond",
+        "background":"space"
+
+        
+    }
+}

@@ -1,0 +1,14 @@
+{
+  "name": "I AM EYE DUCK",
+  "description": "I am eye duck with degree",
+  "symobol": "EYEDUCK",
+  "image": "https://oneto11.mypinata.cloud/ipfs/QmRveZD1pW8BnubSSxkGiPQajSRnDkgJx2za4umaGbbHA4/24.png",
+  "properties": {
+    "gender": "M",
+    "face": "round",
+    "hair": "glassy",
+    "spacesuit": "metallic",
+    "accessories": "diamond",
+    "background": "yellow-green"
+  }
+}

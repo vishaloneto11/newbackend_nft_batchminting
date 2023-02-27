@@ -1,0 +1,14 @@
+{
+  "name": "I am queen crown",
+  "description": "I am queen crown",
+  "symobol": "OneMonkey",
+  "image": "https://oneto11.mypinata.cloud/ipfs/QmRveZD1pW8BnubSSxkGiPQajSRnDkgJx2za4umaGbbHA4/21.png",
+  "properties": {
+    "color": "yellow",
+    "facade": "crown",
+    "material": "glod",
+    "spacesuit": "metallic",
+    "accessories": "diamond",
+    "background": "space"
+  }
+}

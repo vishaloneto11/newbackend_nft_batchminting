@@ -1,0 +1,14 @@
+{
+  "name": "I FLOWER GIRL",
+  "description": "I am a flower girl with mask",
+  "symobol": "FLOWER GIRLS",
+  "image": "https://oneto11.mypinata.cloud/ipfs/QmRveZD1pW8BnubSSxkGiPQajSRnDkgJx2za4umaGbbHA4/10.jfif",
+  "properties": {
+    "gender": "F",
+    "face": "roundcut",
+    "hair": "grey",
+    "spacesuit": "Flower suit",
+    "accessories": "Green neck",
+    "background": "Green"
+  }
+}

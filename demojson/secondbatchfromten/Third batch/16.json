@@ -1,0 +1,14 @@
+{
+  "name": "I am ghost bird",
+  "description": "I am ghost white bird",
+  "symobol": "Bird",
+  "image": "https://oneto11.mypinata.cloud/ipfs/QmRveZD1pW8BnubSSxkGiPQajSRnDkgJx2za4umaGbbHA4/16.png",
+  "properties": {
+    "gender": "M",
+    "face": "round",
+    "hair": "black",
+    "spacesuit": "white",
+    "accessories": "diamondhead",
+    "background": "pink"
+  }
+}

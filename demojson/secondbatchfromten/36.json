@@ -1,0 +1,14 @@
+{
+  "name": "Football",
+  "description": "I am with orange of ocean",
+  "symobol": "Oneto11",
+  "image": "https://oneto11.mypinata.cloud/ipfs/Qmc68BTHC84csKt95C8nJ3WKrmxKYujNJZDKQUGkMjFbhR/36.png",
+  "properties": {
+    "gender": "M",
+    "face": "round",
+    "hair": "glassy",
+    "spacesuit": "metallic",
+    "accessories": "diamond",
+    "background": "space"
+  }
+}

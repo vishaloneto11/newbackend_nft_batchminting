@@ -1,0 +1,14 @@
+{
+  "name": "WINTERLAND HELMET",
+  "description": "Helemet of winterland",
+  "symobol": "WINTER HELMET",
+  "image": "https://oneto11.mypinata.cloud/ipfs/QmRveZD1pW8BnubSSxkGiPQajSRnDkgJx2za4umaGbbHA4/7.png",
+  "properties": {
+    "gender": "infinity",
+    "face": "3D suit",
+    "hair": "green 3D",
+    "spacesuit": "metallic helmet",
+    "accessories": "red crown",
+    "background": "block berry dark"
+  }
+}

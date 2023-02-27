@@ -1,0 +1,14 @@
+{
+  "name": "I AM MONKEY WITH HAMMER",
+  "description": "I am monkey with hammer and red glass",
+  "symobol": "OneMonkey",
+  "image": "https://oneto11.mypinata.cloud/ipfs/QmRveZD1pW8BnubSSxkGiPQajSRnDkgJx2za4umaGbbHA4/17.png",
+  "properties": {
+    "gender": "M",
+    "face": "round",
+    "hair": "glassy",
+    "spacesuit": "metallic",
+    "accessories": "diamond",
+    "background": "space"
+  }
+}

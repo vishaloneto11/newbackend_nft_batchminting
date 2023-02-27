@@ -1,0 +1,14 @@
+{
+  "name": "I am monkey baba",
+  "description": "I am monkey baba with Banana of ocean",
+  "symobol": "OneMonkey",
+  "image": "https://oneto11.mypinata.cloud/ipfs/Qmc68BTHC84csKt95C8nJ3WKrmxKYujNJZDKQUGkMjFbhR/11.png",
+  "properties": {
+    "gender": "M",
+    "face": "round",
+    "hair": "glassy",
+    "spacesuit": "metallic",
+    "accessories": "diamond",
+    "background": "space"
+  }
+}

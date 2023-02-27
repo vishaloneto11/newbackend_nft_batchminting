@@ -1,0 +1,14 @@
+{
+  "name": "CAT WITH WHITE EYES",
+  "description": "I am cat with red horns",
+  "symobol": "CAT HORN",
+  "image": "https://oneto11.mypinata.cloud/ipfs/QmRveZD1pW8BnubSSxkGiPQajSRnDkgJx2za4umaGbbHA4/9.png",
+  "properties": {
+    "gender": "cat",
+    "face": "cat",
+    "hair": "black and white",
+    "spacesuit": "metallic pink",
+    "accessories": "green tap",
+    "background": "blue"
+  }
+}

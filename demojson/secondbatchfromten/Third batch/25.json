@@ -1,0 +1,14 @@
+{
+  "name": "I am Red Duck",
+  "description": "I am duck with yellow mouth",
+  "symobol": "OneDuck",
+  "image": "https://oneto11.mypinata.cloud/ipfs/QmRveZD1pW8BnubSSxkGiPQajSRnDkgJx2za4umaGbbHA4/25.png",
+  "properties": {
+    "color": "red",
+    "face": "round",
+    "hair": "glassy",
+    "spacesuit": "metallic",
+    "accessories": "diamond",
+    "background": "space"
+  }
+}

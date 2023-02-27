@@ -1,0 +1,14 @@
+{
+  "name": "I AM GAME BOY",
+  "description": "I am game boy with red and blue chasma",
+  "symobol": "GAMEBOY",
+  "image": "https://oneto11.mypinata.cloud/ipfs/QmRveZD1pW8BnubSSxkGiPQajSRnDkgJx2za4umaGbbHA4/19.png",
+  "properties": {
+    "gender": "M",
+    "face": "round",
+    "hair": "curly",
+    "spacesuit": "metallic",
+    "accessories": "diamond",
+    "background": "cream"
+  }
+}

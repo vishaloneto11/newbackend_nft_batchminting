@@ -1,0 +1,14 @@
+{
+  "name": "I AM TV GUY",
+  "description": "I am tv guy with purple jacket",
+  "symobol": "TVGUY",
+  "image": "https://oneto11.mypinata.cloud/ipfs/QmRveZD1pW8BnubSSxkGiPQajSRnDkgJx2za4umaGbbHA4/18.png",
+  "properties": {
+    "gender": "M",
+    "face": "tv",
+    "hair": "tv",
+    "spacesuit": "cotton",
+    "accessories": "tatoo",
+    "background": "sevencolor"
+  }
+}
